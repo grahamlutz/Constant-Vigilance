@@ -5,12 +5,12 @@
 ### MEAN Frameworks:
 - MEAN.io - http://mean.io/#!/
 - MEAN.js - http://meanjs.org/
+- - Sails.js - web framework built on nodejs - http://sailsjs.org/
+  - http://techbrij.com/mongodb-angularjs-nodejs-sailsjs-crud-bower
 
 MEAN Learning - https://github.com/ericdouglas/MEAN-Learning
 
-###Server Frameworks:
-- Sails.js - web framework built on nodejs - http://sailsjs.org/
-  - http://techbrij.com/mongodb-angularjs-nodejs-sailsjs-crud-bower
+###Express:
 - Express - http://stackoverflow.com/questions/8144214/learning-express-for-node-js
   - official docs and guide - http://expressjs.com/
 
