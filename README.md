@@ -10,6 +10,9 @@
 
 #### CMS Frameworks
 - Keystone.js - http://keystonejs.com/
+- Cody - http://www.cody-cms.org/en/
+- Pencilblue - https://pencilblue.org/
+- Endur - http://www.endurojs.com/
 
 MEAN Learning - https://github.com/ericdouglas/MEAN-Learning
 
