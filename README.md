@@ -16,6 +16,7 @@ MEAN Learning - https://github.com/ericdouglas/MEAN-Learning
 
 ###Node:
 - All About Node.js - http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
+- Stream Handbook - https://github.com/substack/stream-handbook#introduction
 
 NodeJS Learning - https://github.com/sergtitov/NodeJS-Learning
 
