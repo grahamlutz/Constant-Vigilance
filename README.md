@@ -3,8 +3,6 @@
 ## MEAN Stack
 
 ### MEAN Frameworks:
-- MEAN.io - http://mean.io/#!/
-- MEAN.js - http://meanjs.org/
 - - Sails.js - web framework built on nodejs - http://sailsjs.org/
   - http://techbrij.com/mongodb-angularjs-nodejs-sailsjs-crud-bower
 
