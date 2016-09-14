@@ -37,3 +37,11 @@ https://facebook.github.io/react/
 
 ## METEOR
 https://www.meteor.com/
+
+## Testing - TDD
+
+### Node.js testing:
+- http://developers.redhat.com/blog/2016/03/15/test-driven-development-for-building-apis-in-node-js-and-express/
+- http://webapplog.com/tdd/
+- https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
+- https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon
