@@ -1,5 +1,7 @@
 # shit-to-learn-about
 
+[The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+
 ## MEAN Stack
 
 ### MEAN Frameworks:
