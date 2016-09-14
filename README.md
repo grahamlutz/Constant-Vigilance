@@ -28,6 +28,11 @@
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
+####Node App Tutorials:
+ - [Real Time Chat With NodeJS, Socket.io and ExpressJS](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
+ - [Real-Time Chat Room using Node Webkit, Socket.io, and MEAN](https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean)
+ - [Realtime Chat with Node.js](http://tutorialzine.com/2014/03/nodejs-private-webchat/)
+
 ###Mongo:
 - [Mongo Manual](https://docs.mongodb.com/manual/)
 
