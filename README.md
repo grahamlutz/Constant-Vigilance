@@ -44,7 +44,7 @@
 https://facebook.github.io/react/
 
 ## METEOR
-https://www.meteor.com/
+[docs](https://www.meteor.com/)
 
 ## Testing - TDD
 
