@@ -41,7 +41,7 @@
 [Angular Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
 ## React
-https://facebook.github.io/react/
+[docs](https://facebook.github.io/react/)
 
 ## METEOR
 [docs](https://www.meteor.com/)
