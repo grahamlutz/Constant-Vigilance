@@ -3,6 +3,31 @@
 [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
  - [Standford CS 101] (https://lagunita.stanford.edu/dashboard)
 
+## Javascript
+
+ - garbage collector mechanism
+ - risks of "with"
+ - risks of "eval" (and setTimeout() and new Function)
+ - modules (IIFE, AMD, CommonJS, ES6) and namespace patterns
+ - strict mode
+ - freeze(), seal()
+ - getter / setter,
+ - writable / configurable attributes
+ 
+### ES6
+
+ - [Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+ - [function* (generator)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+ - [yield keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
+ - [iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
+ - [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+ - [Clases}(https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+
+#### Async / Await
+
+ - [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
+ - [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+
 ## MEAN Stack
 
 ### MEAN Frameworks:
@@ -26,6 +51,7 @@
 - [Stream Handbook](https://github.com/substack/stream-handbook#introduction)
 - [Stream Adventure](https://github.com/substack/stream-adventure)
 - [nodeBook](http://www.nodebeginner.org/)
+- [Professional Node.js - Building Javascript Based Scalable Software](http://htchttp.s3.amazonaws.com/books/professional_node.js.pdf)
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
