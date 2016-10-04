@@ -25,6 +25,7 @@
 - [All About Node.js](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Stream Handbook](https://github.com/substack/stream-handbook#introduction)
 - [Stream Adventure](https://github.com/substack/stream-adventure)
+- [nodeBook](http://www.nodebeginner.org/)
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
