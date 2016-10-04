@@ -27,6 +27,30 @@
 
  - [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
  - [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+ - [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+ - [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
+
+## Front End
+
+ - [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+ - [Cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+ - [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
+ - [JSON Hijacking](http://haacked.com/archive/2009/06/25/json-hijacking.aspx/)
+
+### API's
+
+ - [Streams](https://streams.spec.whatwg.org/#rs-class)
+ - [Fetch](https://fetch.spec.whatwg.org/)
+ - [URL](https://url.spec.whatwg.org/)
+ - [Web Workers](https://www.w3.org/TR/workers/)
+ - [Using Web Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+   - [Service Workers](https://www.w3.org/TR/service-workers/)
+   - [Using Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+ - [Web Storage](https://www.w3.org/TR/webstorage/)
+   - [Web Storage API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+ - [Web Socket](https://www.w3.org/TR/websockets/)
+   - [The Web Socket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+ - [Server Sent Events](https://www.w3.org/TR/eventsource/)
 
 ## MEAN Stack
 
