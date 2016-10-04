@@ -13,6 +13,7 @@
  - freeze(), seal()
  - getter / setter,
  - writable / configurable attributes
+ - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  
 ### ES6
 
