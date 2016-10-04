@@ -21,7 +21,7 @@
  - [yield keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
  - [iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
  - [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
- - [Clases}(https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+ - [Clases](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
 
 #### Async / Await
 
