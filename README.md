@@ -74,6 +74,8 @@
 - [All About Node.js](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [Stream Handbook](https://github.com/substack/stream-handbook#introduction)
 - [Stream Adventure](https://github.com/substack/stream-adventure)
+
+ #### [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 - [nodeBook](http://www.nodebeginner.org/)
 - [Professional Node.js - Building Javascript Based Scalable Software](http://htchttp.s3.amazonaws.com/books/professional_node.js.pdf)
 
