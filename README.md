@@ -77,7 +77,7 @@
 - [Stream Adventure](https://github.com/substack/stream-adventure)
 
  #### [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
-- [nodeBook](http://www.nodebeginner.org/)
+- [x] [nodeBook](http://www.nodebeginner.org/)
 - [Professional Node.js - Building Javascript Based Scalable Software](http://htchttp.s3.amazonaws.com/books/professional_node.js.pdf)
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
