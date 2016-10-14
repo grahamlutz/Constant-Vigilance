@@ -1,7 +1,7 @@
 # shit-to-learn-about
 
 [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
- - [Standford CS 101] (https://lagunita.stanford.edu/dashboard)
+ [x] [Standford CS 101] (https://lagunita.stanford.edu/dashboard)
 
 ## Javascript
 
