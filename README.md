@@ -1,7 +1,7 @@
 # shit-to-learn-about
 
 [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
- - [x] [Standford CS 101] (https://lagunita.stanford.edu/dashboard)
+ - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
  - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
