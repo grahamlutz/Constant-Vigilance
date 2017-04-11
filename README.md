@@ -4,6 +4,23 @@
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT)
  - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT)
+ - [ ] [Programming Abstractions](https://itunes.apple.com/in/course/programming-abstractions/id495054099) (Stanford CS106B)
+ - [ ] [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/) (MIT 6.004)
+ - [ ] [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) (MIT 6.823) 
+ - [ ] [Intro to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) (Stanford)
+ - [ ] [Operating System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) (MIT 6.828)
+ - [ ] [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) (Udacity CS215)
+ - [ ] [Programming Language Theory](https://cs.brown.edu/courses/cs173/2012/OnLine/) (Brown CSCI 1730)
+ - [ ] [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm) (MIT 6.033)
+ - [ ] [Introduction to Embedded Systems](http://cms.cs.ucr.edu/faculty/philip/open_source_courses/CS120B_labs.html) (UC Riverside CS120B)
+ - [ ] [Foundations of Software Engineering](https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-124j-foundations-of-software-engineering-fall-2000/) (MIT 1.124J)
+ - [ ] [Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1) (Rice University)
+ - [ ] [Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2) (Rice University)
+ - [ ] [Computer Networking by Georgia Institute of Technology](https://www.udacity.com/course/computer-networking--ud436) (Udacity)
+ - [ ] [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/) (6.035)
+ - [ ] [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) (6.034)
+ - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) (CMU 15-418/618)
+ - [ ] [Machine Learning by Georgia Institute of Technology](https://www.udacity.com/course/machine-learning--ud262) (Udacity)
 
 ## Javascript
 
