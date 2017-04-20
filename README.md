@@ -148,3 +148,7 @@
 - [Web App Log TDD](http://webapplog.com/tdd/)
 - [TDD building TODO App](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
 - [Unit Testing with Mocha and Sinon](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
+
+## Book List
+
+ - [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/gp/product/1593270038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593270038&linkId=f9d0e5b4afe3f0fdc92e3a3944233b68)
