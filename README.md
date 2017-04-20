@@ -39,6 +39,7 @@
  - [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
  - [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
  - [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+ - [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
 
 ## Javascript
 
