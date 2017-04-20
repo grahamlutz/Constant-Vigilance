@@ -30,6 +30,7 @@
  - [ ] [Machine Learning by Georgia Institute of Technology](https://www.udacity.com/course/machine-learning--ud262) (Udacity)
 
 ## Python
+ [docs](https://docs.python.org/3/tutorial/index.html)
  - [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
  - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
  - [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
