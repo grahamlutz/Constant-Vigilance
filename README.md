@@ -1,6 +1,6 @@
 # shit-to-learn-about
 
-## Computer Science
+# Computer Science
 
 [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
@@ -41,6 +41,8 @@
  - [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
  - [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  - [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
+
+# Web Development
 
 ## Javascript
 
@@ -149,6 +151,6 @@
 - [TDD building TODO App](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
 - [Unit Testing with Mocha and Sinon](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
 
-## Book List
+# Book List
 
  - [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/gp/product/1593270038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593270038&linkId=f9d0e5b4afe3f0fdc92e3a3944233b68)
