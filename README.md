@@ -1,5 +1,11 @@
 # shit-to-learn-about
 
+## Computer Science
+
+[500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
 [The Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree)
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard)
  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
@@ -22,8 +28,6 @@
  - [ ] [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) (6.034)
  - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) (CMU 15-418/618)
  - [ ] [Machine Learning by Georgia Institute of Technology](https://www.udacity.com/course/machine-learning--ud262) (Udacity)
-
-[Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Javascript
 
