@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Computer Science](#Computer-Science)
-2. [Web Development](# Web-Development)
+2. [Web Development](#Web-Development)
 3. [Third Example](#third-example)
 
 # Computer Science
