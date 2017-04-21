@@ -6,6 +6,7 @@
 3. [Third Example](#third-example)
 
 # Computer Science
+<a name="Computer-Science"></a>
 
 [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
@@ -48,6 +49,7 @@
  - [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
 
 # Web Development
+<a name="Web-Development"></a>
 
 ## Javascript
 
