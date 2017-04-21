@@ -1,5 +1,10 @@
 # shit-to-learn-about
 
+# Table of Contents
+1. [Computer Science](#Computer-Science)
+2. [Web Development](# Web-Development)
+3. [Third Example](#third-example)
+
 # Computer Science
 
 [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
