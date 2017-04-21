@@ -5,8 +5,8 @@
 2. [Web Development](#Web-Development)
 3. [Third Example](#third-example)
 
-# Computer Science
 <a name="Computer-Science"></a>
+# Computer Science
 
 [500 Data structures and algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
@@ -48,8 +48,8 @@
  - [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  - [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
 
-# Web Development
 <a name="Web-Development"></a>
+# Web Development
 
 ## Javascript
 
