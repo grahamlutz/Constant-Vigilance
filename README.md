@@ -162,3 +162,4 @@
 # Book List
 
  - [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/gp/product/1593270038/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593270038&linkId=f9d0e5b4afe3f0fdc92e3a3944233b68)
+ - [The C Programming Language](https://www.amazon.com/gp/product/0131103628/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131103628&linkId=c2fd88565e21f32ac93796dfb3fd7589)
