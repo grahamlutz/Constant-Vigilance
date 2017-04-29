@@ -104,7 +104,7 @@
 ## MEAN Stack
 
 ### MEAN Frameworks:
-- - [ ] [Sails.js](http://sailsjs.org/) - web framework built on nodejs
+- [ ] [Sails.js](http://sailsjs.org/) - web framework built on nodejs
   - [ ] http://techbrij.com/mongodb-angularjs-nodejs-sailsjs-crud-bower
 
 #### CMS Frameworks
@@ -154,7 +154,7 @@
 
 ### Node.js testing:
 - [ ] [TDD for API's in node and express](http://developers.redhat.com/blog/2016/03/15/test-driven-development-for-building-apis-in-node-js-and-express/)
-- [[ ] Web App Log TDD](http://webapplog.com/tdd/)
+- [ ] [Web App Log TDD](http://webapplog.com/tdd/)
 - [ ] [TDD building TODO App](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
 - [ ] [Unit Testing with Mocha and Sinon](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
 
