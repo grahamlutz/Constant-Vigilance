@@ -115,11 +115,11 @@
 
 [MEAN Learning](https://github.com/ericdouglas/MEAN-Learning)
 
-###Express:
+### Express:
 - [ ] [Express](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
   - [ ] [official docs and guide](http://expressjs.com/)
 
-###Node:
+### Node:
 - [x] [All About Node.js](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 - [x] [Stream Handbook](https://github.com/substack/stream-handbook#introduction)
 - [ ] [Stream Adventure](https://github.com/substack/stream-adventure)
@@ -130,14 +130,14 @@
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
-####Node App Tutorials:
+#### Node App Tutorials:
 
  - [ ] [List of Advanced Node Tutorials](http://noeticforce.com/best-nodejs-tutorial-with-examples)
  - [ ] [Real Time Chat With NodeJS, Socket.io and ExpressJS](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
  - [ ] [Real-Time Chat Room using Node Webkit, Socket.io, and MEAN](https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean)
  - [ ] [Realtime Chat with Node.js](http://tutorialzine.com/2014/03/nodejs-private-webchat/)
 
-###Mongo:
+### Mongo:
 - [Mongo Manual (docs))](https://docs.mongodb.com/manual/)
 
 ### Angular: 
