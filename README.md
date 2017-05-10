@@ -12,7 +12,7 @@
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-Open Source CS Degree
+## Open Source CS Degree
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0)
  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
