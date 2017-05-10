@@ -74,10 +74,10 @@
 
 #### Async / Await
 
- - [ ] [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
+ - [x] [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
  - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
  - [ ] [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
- - [ ] [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
+ - [x] [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
 
 ## Front End
 
@@ -95,8 +95,8 @@
  - [ ] [Using Web Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
    - [ ] [Service Workers](https://www.w3.org/TR/service-workers/)
    - [ ] [Using Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
- - [ ] [Web Storage](https://www.w3.org/TR/webstorage/)
-   - [ ] [Web Storage API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+ - [x] [Web Storage](https://www.w3.org/TR/webstorage/)
+   - [x] [Web Storage API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
  - [ ] [Web Socket](https://www.w3.org/TR/websockets/)
    - [ ] [The Web Socket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
  - [ ] [Server Sent Events](https://www.w3.org/TR/eventsource/)
@@ -116,7 +116,7 @@
 [MEAN Learning](https://github.com/ericdouglas/MEAN-Learning)
 
 ### Express:
-- [ ] [Express](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
+- [x] [Express](http://stackoverflow.com/questions/8144214/learning-express-for-node-js)
   - [ ] [official docs and guide](http://expressjs.com/)
 
 ### Node:
@@ -133,7 +133,7 @@
 #### Node App Tutorials:
 
  - [ ] [List of Advanced Node Tutorials](http://noeticforce.com/best-nodejs-tutorial-with-examples)
- - [ ] [Real Time Chat With NodeJS, Socket.io and ExpressJS](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
+ - [x] [Real Time Chat With NodeJS, Socket.io and ExpressJS](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708)
  - [ ] [Real-Time Chat Room using Node Webkit, Socket.io, and MEAN](https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean)
  - [ ] [Realtime Chat with Node.js](http://tutorialzine.com/2014/03/nodejs-private-webchat/)
 
