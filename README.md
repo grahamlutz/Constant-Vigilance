@@ -1,4 +1,4 @@
-# shit-to-learn-about
+# Constant Vigilance
 
 # Table of Contents
 1. [Computer Science](#Computer-Science)
