@@ -48,6 +48,20 @@
  - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  - [x] [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
 
+## Machine Learning
+
+- [ ] [Machine Learning Nanodegree - Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+
+#### Prerequisites
+
+ - [x] [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+ - [x] [Fullstack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+ - [x] [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+ - [ ] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+ - [ ] [Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+
+
+
 <a name="Web-Development"></a>
 # Web Development
 
