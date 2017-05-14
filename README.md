@@ -28,6 +28,8 @@
 - Statistics and Probability
 - [x] [Displaying and Describing Data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)
 - [ ] [Modeling Distributions of Data](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
+- Linear Algebra
+- [ ] [linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 #### Coursework
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0)
