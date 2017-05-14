@@ -19,11 +19,15 @@
 - Udacity
 - [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
-- Khan Academy
+##### Khan Academy
+- Computer Science
 - [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 - [ ] [Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
 - [ ] [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- Statistics and Probability
+- [x] [Displaying and Describing Data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)
+- [ ] [Modeling Distributions of Data](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
 
 #### Coursework
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0)
