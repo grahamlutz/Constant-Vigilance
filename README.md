@@ -16,7 +16,7 @@
 
 #### Prerequisites
 
-- Udacity
+##### Udacity
 - [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
 ##### Khan Academy
