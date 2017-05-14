@@ -88,10 +88,10 @@
 
 ### API's
 
- - [Streams](https://streams.spec.whatwg.org/#rs-class)
+ - [x] [Streams](https://streams.spec.whatwg.org/#rs-class)
  - [x] [Fetch](https://fetch.spec.whatwg.org/)
  - [x] [URL](https://url.spec.whatwg.org/)
- - [Web Workers](https://www.w3.org/TR/workers/)
+ - [ ] [Web Workers](https://www.w3.org/TR/workers/)
  - [ ] [Using Web Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
    - [ ] [Service Workers](https://www.w3.org/TR/service-workers/)
    - [ ] [Using Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
