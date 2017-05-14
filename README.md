@@ -16,11 +16,14 @@
 
 #### Prerequisites
 
-- [ ] [Intro to Computer Science - Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [ ] [Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Cryptography - Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
-- [ ] [Information Theory - Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
-- [ ] [Internet 101 - Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- Udacity
+- [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+
+- Khan Academy
+- [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+- [ ] [Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
+- [ ] [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 #### Coursework
  - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0)
