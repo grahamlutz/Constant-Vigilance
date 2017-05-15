@@ -32,11 +32,20 @@
 - [ ] [linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 #### Coursework
- - [x] [Standford CS 101](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0)
+
+##### CS Degree in Python
+ - [ ] [Introduction to Computer Science and Programming ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
+ - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
+ - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT 6.042J)
+ - [ ] [Structure and Interpretation of Computer Programs](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
+ 
+##### Mixed CS Degree
+ - [x] [Standford CS 101 - Javascript](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50 - C](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0) OR [MIT 6.0001 - Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
  - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT 6.042J)
- - [ ] [Programming Abstractions](https://itunes.apple.com/in/course/programming-abstractions/id495054099) (Stanford CS106B)
+ - [ ] [Programming Abstractions - Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099) OR [Structure and Interpretation of Computer Programs - UC Berkeley CS61A](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
  - [ ] [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/) (MIT 6.004)
  - [ ] [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) (MIT 6.823) 
  - [ ] [Intro to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) (Stanford)
