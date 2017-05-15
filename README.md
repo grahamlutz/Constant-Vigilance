@@ -31,16 +31,7 @@
 - Linear Algebra
 - [ ] [linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
-#### Coursework
-
-##### CS Degree in Python
- - [ ] [Introduction to Computer Science and Programming ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
- - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
- - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT 6.042J)
- - [ ] [Structure and Interpretation of Computer Programs](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
- 
-##### Mixed CS Degree
+### Coursework
  - [x] [Standford CS 101 - Javascript](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50 - C](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0) OR [MIT 6.0001 - Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
