@@ -1,5 +1,9 @@
 # Constant Vigilance
 
+"Constant vigilance" means continually being on watch or guard against threat. This is a phrase used by the kooky one-eyed auror, Alastor "Mad-Eye Moody," in J.K. Rowling's Harry Potter book series. The character was introduced in the fourth book of the series, Harry Potter and the Goblet of Fire.
+
+Here, constant vigilance means being continually aware of areas that need improvement.  For me, I am constantly searching for valuable resources to ensure I am able to solve any problem that comes my way.  The ultimate goal is a repertoire of languages, paradigms, skills, and experiences sufficient to solve the biggest problems in human health. 
+
 # Table of Contents
 1. [Computer Science](#Computer-Science)
 2. [Web Development](#Web-Development)
