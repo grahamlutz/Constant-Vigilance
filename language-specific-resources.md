@@ -1,6 +1,6 @@
 ## Programming Language Specific Resources
 
-- C
+## C
     - [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
     - K&R C book (ANSI C)
     - [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
@@ -9,7 +9,7 @@
         - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
       - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
 
-- C++
+## C++
     - [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
     - [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
     - basics
@@ -29,7 +29,7 @@
     - [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
     - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
-- Python
+## Python
     - [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
     - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
     - [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
@@ -40,12 +40,12 @@
     - [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
     - [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
     
-- Java
+## Java
     - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
     - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
     - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
     - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)   
-- Go
+## Go
     - [The Go programming Language](https://golang.org/)
     - [The Go programming Language (book)](http://www.gopl.io/)
     - [A Tour of Go](https://tour.golang.org/)
@@ -54,3 +54,31 @@
     - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
     - [Go Proverbs](http://go-proverbs.github.io/)
     - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+    
+## Javascript
+
+ - [x] garbage collector mechanism
+ - [x] risks of "with"
+ - [x] risks of "eval" (and setTimeout() and new Function)
+ - [x] modules (IIFE, AMD, CommonJS, ES6) and namespace patterns
+ - [x] strict mode
+ - [x] freeze(), seal()
+ - [ ] getter / setter,
+ - [ ] writable / configurable attributes
+ - [ ] [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ 
+### ES6
+
+ - [x] [Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+ - [x] [function* (generator)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+ - [x] [yield keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
+ - [ ] [iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
+ - [x] [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+ - [x] [Clases](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
+
+#### Async / Await
+
+ - [x] [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
+ - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+ - [ ] [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+ - [x] [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
