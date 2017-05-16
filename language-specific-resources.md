@@ -57,6 +57,7 @@
     
 ## Javascript
 
+ - [x] [What the heck is the event loop, anyway? (video)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
  - [x] garbage collector mechanism
  - [x] risks of "with"
  - [x] risks of "eval" (and setTimeout() and new Function)
