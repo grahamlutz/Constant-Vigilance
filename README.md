@@ -84,34 +84,6 @@
 <a name="Web-Development"></a>
 # Web Development
 
-## Javascript
-
- - [x] garbage collector mechanism
- - [x] risks of "with"
- - [x] risks of "eval" (and setTimeout() and new Function)
- - [x] modules (IIFE, AMD, CommonJS, ES6) and namespace patterns
- - [x] strict mode
- - [x] freeze(), seal()
- - [ ] getter / setter,
- - [ ] writable / configurable attributes
- - [ ] [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
- 
-### ES6
-
- - [x] [Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
- - [x] [function* (generator)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
- - [x] [yield keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
- - [ ] [iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
- - [x] [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
- - [x] [Clases](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
-
-#### Async / Await
-
- - [x] [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.avoea39ni)
- - [ ] [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
- - [ ] [Understanding JavaScript’s async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
- - [x] [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
-
 ## Front End
 
  - [x] [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
