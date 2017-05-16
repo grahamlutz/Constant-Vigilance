@@ -44,7 +44,7 @@
 - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
 - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
 - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
-- [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)   
+- [Algorithms 4th Ed - Algorithm Book In Java](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=032157351X&linkId=bbbe8c8071d4bcb15196792015fafb22)   
 ## Go
 - [The Go programming Language](https://golang.org/)
 - [The Go programming Language (book)](http://www.gopl.io/)
