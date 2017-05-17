@@ -68,7 +68,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
  - [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
  - [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
- - [ ] [PEP8 - Python Style Guide-(https://www.python.org/dev/peps/pep-0008/)
+ - [ ] [PEP8 - Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
  - [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  - [x] [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
 
