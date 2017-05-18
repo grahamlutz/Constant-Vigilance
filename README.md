@@ -6,8 +6,9 @@ Here, constant vigilance means being continually aware of areas that need improv
 
 # Table of Contents
 1. [Computer Science](#Computer-Science)
-2. [Web Development](#Web-Development)
-3. [Book List](#book-list)
+1. [Web Development](#Web-Development)
+1. [Book List](#book-list)
+1. [Language Specific Resources](https://github.com/grahamlutz/Constant-Vigilance/blob/master/language-specific-resources.md)
 
 <a name="Computer-Science"></a>
 # Computer Science
