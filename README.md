@@ -74,6 +74,12 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [PEP8 - Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
  - [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  - [x] [TutorialsPoint Python](https://www.tutorialspoint.com/python/index.htm)
+ 
+## Bioinformatics
+
+ - [ ] [Journey to the Frontier of Computational Biology](http://coursera.org/specialization/bioinformatics/34)
+ - [ ] [Bioinformatics Algorithms: An Active Learning Approach, 2nd Ed. Vol. 1](https://www.amazon.com/gp/product/0990374610/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0990374610&linkId=d96cced9401be07f61e78eb03cb98f72)
+ - [ ] [Bioinformatics Algorithms: An Active Learning Approach, 2nd Ed. Vol. 2](https://www.amazon.com/gp/product/0990374629/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=theongoautoof-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0990374629&linkId=d8cc0075aca532c9558b94193f9af770)
 
 ## Machine Learning
 
