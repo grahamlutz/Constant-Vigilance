@@ -36,7 +36,9 @@ Here, constant vigilance means being continually aware of areas that need improv
 - [x] [Displaying and Describing Data](https://www.khanacademy.org/math/statistics-probability/displaying-describing-data)
 - [ ] [Modeling Distributions of Data](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
 - Linear Algebra
-- [ ] [linear algebra](https://www.khanacademy.org/math/linear-algebra)
+- [ ] [Vectors and spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
+- [ ] [Matrix transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
+- [ ] [Alternate coordinate systems (bases)](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
 
 ### Coursework
  - [x] [Standford CS 101 - Javascript](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50 - C](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0) OR [MIT 6.0001 - Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
