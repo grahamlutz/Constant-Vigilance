@@ -31,15 +31,17 @@
 - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
 
 ## Python
-- [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-- [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
-- [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-- [Zero to Hero (video)](https://www.youtube.com/watch?v=TV9tSHFAFjg)
-- [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-- [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
-- [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
-- [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
-- [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+- [x] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+- [x] [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+- [ ] [Zero to Hero (video)](https://www.youtube.com/watch?v=TV9tSHFAFjg)
+- [x] [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+- [x] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
+- [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
+- [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
+- [ ] [PEP8 - Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+- [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+ [My Python Book List](https://www.amazon.com/hz/wishlist/ls/ATDHXT6J29O4?&amp;sort=default&_encoding=UTF8&tag=theongoautoof-20&linkCode=ur2&linkId=aa018237324a948f8b6d8411ae8f4e6a&camp=1789&creative=9325)
     
 ## Java
 - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
