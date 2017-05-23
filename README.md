@@ -45,7 +45,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) (Udacity)
  - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) (MIT 18.01)
  - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) (MIT 6.042J)
- - [ ] [Programming Abstractions - Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099) OR [Structure and Interpretation of Computer Programs - UC Berkeley CS61A](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html)
+ - [ ] [Programming Abstractions - Stanford CS106B](https://itunes.apple.com/in/course/programming-abstractions/id495054099) OR [Structure and Interpretation of Computer Programs - UC Berkeley CS61A](http://wla.berkeley.edu/~cs61a/fa11/61a-python/content/www/index.html) [(Video Lectures)](https://www.youtube.com/playlist?list=PL1AE464371B3398CC)
  - [ ] [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/) (MIT 6.004)
  - [ ] [Computer System Architecture](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/) (MIT 6.823) 
  - [ ] [Intro to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) (Stanford)
