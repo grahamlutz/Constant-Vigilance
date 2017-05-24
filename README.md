@@ -86,6 +86,37 @@ Here, constant vigilance means being continually aware of areas that need improv
 <a name="Web-Development"></a>
 # Web Development
 
+## AWS
+
+ - [ ] [serverless applications with AWS](https://www.udemy.com/learning-path-aws-aws-environments-with-aws-lambda/)
+ - [ ] [Lambda](https://www.udemy.com/aws-lambda-2016-the-complete-guide-with-hands-on-labs/)
+ - [ ] [Certified Developer Associate](https://www.udemy.com/aws-certified-developer-associate/)
+ - [ ] [Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+
+## Wordpress
+
+#### Courses
+ - [ ] [Wordpress Development for Intermediate Users](https://premium.wpmudev.org/academy/courses/wordpress-development-for-intermediate-users-3)
+ - [ ] [Advanced Wordpress Development](https://premium.wpmudev.org/academy/courses/advanced-wordpress-development)
+ 
+#### Tutorials/Articles
+ - [ ] [Using Composer with Wordpress](https://roots.io/using-composer-with-wordpress/)
+ - [ ] [Actions and Filters](https://code.tutsplus.com/articles/the-beginners-guide-to-wordpress-actions-and-filters--wp-27373)
+ - [ ] [Inside Wordpress Actions and Filters](https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/)
+ - [ ] [ACF In Depth](https://torquemag.io/2016/04/use-advanced-custom-fields-depth-tutorial/)
+ - [ ] [Plugin Structure In Depth](https://carlalexander.ca/designing-class-assemble-plugin/)
+ - [ ] [Object Oriented Wordpress Programming](https://carlalexander.ca/object-oriented-programming-next-step-wordpress-developer/)
+ - [ ] [Performant PHP for Worpdress](https://10up.github.io/Engineering-Best-Practices/php/#performance)
+ - [ ] [Ultimate Wordpress Security Guide - 2017](http://www.wpbeginner.com/wordpress-security/)
+ - [ ] [WP REST API Docs](http://v2.wp-api.org/)
+ - [ ] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
+ - [ ] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
+ - [ ] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
+ 
+## Mobile App
+
+ - [ ] [Launching Your App on Devices](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/LaunchingYourApponDevices/LaunchingYourApponDevices.html)
+
 ## Front End
 
  - [x] [Cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
