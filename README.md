@@ -102,7 +102,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 #### Tutorials/Articles
  - [ ] [Using Composer with Wordpress](https://roots.io/using-composer-with-wordpress/)
  - [x] [Actions and Filters](https://code.tutsplus.com/articles/the-beginners-guide-to-wordpress-actions-and-filters--wp-27373)
- - [ ] [Inside Wordpress Actions and Filters](https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/)
+ - [x] [Inside Wordpress Actions and Filters](https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/)
  - [ ] [ACF In Depth](https://torquemag.io/2016/04/use-advanced-custom-fields-depth-tutorial/)
  - [ ] [Plugin Structure In Depth](https://carlalexander.ca/designing-class-assemble-plugin/)
  - [ ] [Object Oriented Wordpress Programming](https://carlalexander.ca/object-oriented-programming-next-step-wordpress-developer/)
