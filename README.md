@@ -92,7 +92,6 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Lambda](https://www.udemy.com/aws-lambda-2016-the-complete-guide-with-hands-on-labs/)
  - [ ] [Certified Developer Associate](https://www.udemy.com/aws-certified-developer-associate/)
  - [ ] [Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
- - [ ] [TutorialsPoint - AWS](https://www.tutorialspoint.com/amazon_web_services/index.htm)
 
 ## Wordpress
 
@@ -111,7 +110,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Ultimate Wordpress Security Guide - 2017](http://www.wpbeginner.com/wordpress-security/)
  - [ ] [WP REST API Docs](http://v2.wp-api.org/)
  - [ ] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
- - [ ] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
+ - [x] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
  - [x] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
  - [ ] [Wordpress Nonces](https://codex.wordpress.org/WordPress_Nonces)
  
