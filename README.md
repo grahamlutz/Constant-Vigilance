@@ -92,6 +92,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Lambda](https://www.udemy.com/aws-lambda-2016-the-complete-guide-with-hands-on-labs/)
  - [ ] [Certified Developer Associate](https://www.udemy.com/aws-certified-developer-associate/)
  - [ ] [Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+ - [ ] [TutorialsPoint - AWS](https://www.tutorialspoint.com/amazon_web_services/index.htm)
 
 ## Wordpress
 
