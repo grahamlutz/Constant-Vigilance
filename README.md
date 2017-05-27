@@ -111,7 +111,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [WP REST API Docs](http://v2.wp-api.org/)
  - [ ] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
  - [ ] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
- - [ ] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
+ - [x] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
  
 ## Mobile App
 
