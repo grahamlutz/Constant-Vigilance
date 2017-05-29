@@ -113,6 +113,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [x] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
  - [x] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
  - [x] [Wordpress Nonces](https://codex.wordpress.org/WordPress_Nonces)
+ - [ ] [Definitive Guide to Wordpress Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/)
  
 ## Mobile App
 
