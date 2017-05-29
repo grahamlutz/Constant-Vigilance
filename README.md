@@ -109,6 +109,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Performant PHP for Worpdress](https://10up.github.io/Engineering-Best-Practices/php/#performance)
  - [ ] [Ultimate Wordpress Security Guide - 2017](http://www.wpbeginner.com/wordpress-security/)
  - [ ] [WP REST API Docs](http://v2.wp-api.org/)
+ - [ ] [REST API Handbook](https://developer.wordpress.org/rest-api/)
  - [ ] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
  - [x] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
  - [x] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
