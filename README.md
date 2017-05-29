@@ -116,6 +116,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Definitive Guide to Wordpress Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/)
  - [ ] [Secure Your Wordpress Website](https://www.smashingmagazine.com/2011/11/securing-your-wordpress-website/)
  - [ ] [Guidelines on Interacting with WP Database](https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/)
+ - [ ] [Unit Testing Your Plugins](https://www.smashingmagazine.com/2012/03/writing-unit-tests-for-wordpress-plugins/)
  
 ## Mobile App
 
