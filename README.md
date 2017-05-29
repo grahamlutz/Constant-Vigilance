@@ -115,6 +115,7 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [x] [Wordpress Nonces](https://codex.wordpress.org/WordPress_Nonces)
  - [ ] [Definitive Guide to Wordpress Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/)
  - [ ] [Secure Your Wordpress Website](https://www.smashingmagazine.com/2011/11/securing-your-wordpress-website/)
+ - [ ] [Guidelines on Interacting with WP Database](https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/)
  
 ## Mobile App
 
