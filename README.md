@@ -60,8 +60,8 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Computer Networking by Georgia Institute of Technology](https://www.udacity.com/course/computer-networking--ud436) (Udacity)
  - [ ] [Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/) (6.035)
  - [ ] [Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) (6.034)
- - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) (CMU 15-418/618)
  - [ ] [Machine Learning by Georgia Institute of Technology](https://www.udacity.com/course/machine-learning--ud262) (Udacity)
+ - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2015/) (CMU 15-418/618)
  
 ## Bioinformatics
 
