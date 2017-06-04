@@ -81,7 +81,6 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
  - [ ] [Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 
- - [ ] [Algorithm Design](https://www.hiredintech.com/courses/algorithm-design)
 
 <a name="Web-Development"></a>
 # Web Development
