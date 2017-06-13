@@ -43,6 +43,7 @@
 - [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [ ] [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
  [My Python Book List](https://www.amazon.com/hz/wishlist/ls/ATDHXT6J29O4?&amp;sort=default&_encoding=UTF8&tag=theongoautoof-20&linkCode=ur2&linkId=aa018237324a948f8b6d8411ae8f4e6a&camp=1789&creative=9325)
+- [ ] [Norvig.com](http://www.norvig.com/)
     
 ## Java
 - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
