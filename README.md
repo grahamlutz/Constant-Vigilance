@@ -156,3 +156,8 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [97 Thinkgs Ever Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/thing_01/index.html)
 
  [My Python Book List](https://www.amazon.com/hz/wishlist/ls/ATDHXT6J29O4?&amp;sort=default&_encoding=UTF8&tag=theongoautoof-20&linkCode=ur2&linkId=aa018237324a948f8b6d8411ae8f4e6a&camp=1789&creative=9325)
+
+<a name="must-read"></a>
+# Must Read Articles
+
+ - [x] [How to Be a Great Software Developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
