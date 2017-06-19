@@ -78,6 +78,7 @@
 ### ES6
 
  - [x] [Exploring ES6](http://exploringjs.com/es6/index.html)
+ - [x] [ES6 & Beyond - YDKJS](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 
  - [x] [Promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
  - [x] [function* (generator)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
