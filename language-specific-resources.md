@@ -42,6 +42,7 @@
 - [ ] [PEP8 - Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 - [ ] [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+- [ ] [InteractivePython.org](http://interactivepython.org/runestone/static/pythonds/index.html#)
  [My Python Book List](https://www.amazon.com/hz/wishlist/ls/ATDHXT6J29O4?&amp;sort=default&_encoding=UTF8&tag=theongoautoof-20&linkCode=ur2&linkId=aa018237324a948f8b6d8411ae8f4e6a&camp=1789&creative=9325)
 - [ ] [Norvig.com](http://www.norvig.com/)
     
