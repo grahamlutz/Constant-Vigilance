@@ -82,6 +82,7 @@
  - [ ] [A Functional Programmer’s Introduction to JavaScript ](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
  - [ ] [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
  - [ ] [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
+ - [ ] [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
  
 ### ES6
 
