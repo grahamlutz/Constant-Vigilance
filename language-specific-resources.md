@@ -83,6 +83,7 @@
  - [ ] [Higher Order Functions](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
  - [ ] [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
  - [ ] [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
+ - [ ] [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
  
 ### ES6
 
