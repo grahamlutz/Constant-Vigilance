@@ -75,6 +75,10 @@
  - [ ] writable / configurable attributes
  - [ ] [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
  
+#### Functional Programming
+
+ - [ ] [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+ 
 ### ES6
 
  - [x] [Exploring ES6](http://exploringjs.com/es6/index.html)
