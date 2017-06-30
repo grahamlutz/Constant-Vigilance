@@ -9,6 +9,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 1. [Web Development](#Web-Development)
 1. [Book List](#book-list)
 1. [Must Read Articles](#must-read)
+1. [Tools](#tools)
 1. [Language Specific Resources](https://github.com/grahamlutz/Constant-Vigilance/blob/master/language-specific-resources.md)
 
 <a name="Computer-Science"></a>
@@ -162,3 +163,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 # Must Read Articles
 
  - [x] [How to Be a Great Software Developer](http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer)
+
+<a name="tools"></a>
+# Tools
+ - [x] [Docker Explained Simply](http://elliot.land/post/docker-explained-simply)
