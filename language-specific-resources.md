@@ -153,6 +153,8 @@ This is the “Composing Software” series on learning functional programming a
 ## React
 [docs](https://facebook.github.io/react/)
 
+- [ ] [Fullstack React](https://www.fullstackreact.com/)
+
 ## METEOR
 [docs](https://www.meteor.com/)
 
