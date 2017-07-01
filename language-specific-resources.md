@@ -45,6 +45,7 @@
 - [ ] [InteractivePython.org](http://interactivepython.org/runestone/static/pythonds/index.html#)
  [My Python Book List](https://www.amazon.com/hz/wishlist/ls/ATDHXT6J29O4?&amp;sort=default&_encoding=UTF8&tag=theongoautoof-20&linkCode=ur2&linkId=aa018237324a948f8b6d8411ae8f4e6a&camp=1789&creative=9325)
 - [ ] [Norvig.com](http://www.norvig.com/)
+- [ ] [Probelem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
     
 ## Java
 - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
