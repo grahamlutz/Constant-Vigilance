@@ -87,6 +87,8 @@ Here, constant vigilance means being continually aware of areas that need improv
 <a name="Web-Development"></a>
 # Web Development
 
+- [ ] [HTTP - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
 ## AWS
 
  - [ ] [serverless applications with AWS](https://www.udemy.com/learning-path-aws-aws-environments-with-aws-lambda/)
