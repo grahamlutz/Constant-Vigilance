@@ -167,3 +167,5 @@ Here, constant vigilance means being continually aware of areas that need improv
 <a name="tools"></a>
 # Tools
  - [x] [Docker Explained Simply](http://elliot.land/post/docker-explained-simply)
+ - [ ] [Conquering The Command Line](http://conqueringthecommandline.com/book)
+ - [ ] [Git Book](https://git-scm.com/book/en/v2)
