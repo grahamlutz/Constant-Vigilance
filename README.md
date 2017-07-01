@@ -88,6 +88,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 # Web Development
 
 - [ ] [HTTP - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
 
 ## AWS
 
