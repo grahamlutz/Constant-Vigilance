@@ -166,3 +166,4 @@ This is the “Composing Software” series on learning functional programming a
 - [ ] [Web App Log TDD](http://webapplog.com/tdd/)
 - [ ] [TDD building TODO App](https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb)
 - [ ] [Unit Testing with Mocha and Sinon](https://www.codementor.io/nodejs/tutorial/unit-testing-nodejs-tdd-mocha-sinon)
+- [ ] [End-to-end testing with selenium on Nodejs](https://medium.com/trisfera/end-to-end-testing-with-selenium-on-nodejs-d06d4b4e8cac)
