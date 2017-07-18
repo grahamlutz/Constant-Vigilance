@@ -133,7 +133,7 @@ This is the “Composing Software” series on learning functional programming a
 
  #### [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
 - [x] [nodeBook](http://www.nodebeginner.org/)
-- [ ] [Professional Node.js - Building Javascript Based Scalable Software](http://htchttp.s3.amazonaws.com/books/professional_node.js.pdf)
+- [ ] [Professional Node.js - Building Javascript Based Scalable Software](https://github.com/chriskucharski/programming/blob/master/Javascript/Professional%20Node.js%20-%20Building%20Javascript%20Based%20Scalable%20Software%20-%20P.%20Teixeira%20(Wrox%2C%202013)%20WW.pdf)
 
 [NodeJS Learning](https://github.com/sergtitov/NodeJS-Learning)
 
