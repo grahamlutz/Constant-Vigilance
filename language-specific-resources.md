@@ -149,14 +149,16 @@ This is the “Composing Software” series on learning functional programming a
 
 ### Angular: 
 
-[Angular Learning](https://github.com/jmcunningham/AngularJS-Learning)
-[ng-book](http://pepa.holla.cz/wp-content/uploads/2015/10/ng-book-The-Complete-Book-on-AngularJS.pdf)
-[ng-book 2](https://github.com/papapin/Ng-book-2-/blob/master/ng-book2-r49.pdf)
+ - [ ] [Angular Learning](https://github.com/jmcunningham/AngularJS-Learning)
+ - [ ] [ng-book](http://pepa.holla.cz/wp-content/uploads/2015/10/ng-book-The-Complete-Book-on-AngularJS.pdf)
+ - [ ] [ng-book 2](https://github.com/papapin/Ng-book-2-/blob/master/ng-book2-r49.pdf)
 
 ## React
-[docs](https://facebook.github.io/react/)
 
+[docs](https://facebook.github.io/react/)
 - [ ] [Fullstack React](https://www.fullstackreact.com/)
+- [ ] [30 Days of React](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf?inf_contact_key=18cde43c685ab50d13a2ee7d3d40eae75f3c253a8da2bbad02e217aa8b4200c7)
+- [ ] [Mastering React](http://pepa.holla.cz/wp-content/uploads/2016/12/Mastering-React.pdf)
 
 ## METEOR
 [docs](https://www.meteor.com/)
