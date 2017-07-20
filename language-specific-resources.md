@@ -148,6 +148,10 @@ This is the “Composing Software” series on learning functional programming a
 ### Mongo:
 - [Mongo Manual (docs))](https://docs.mongodb.com/manual/)
 
+## TypeScript
+
+ - [ ] [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+
 ## Angular: 
 
  - [ ] [Angular Learning](https://github.com/jmcunningham/AngularJS-Learning)
