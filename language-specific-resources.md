@@ -150,6 +150,8 @@ This is the “Composing Software” series on learning functional programming a
 ### Angular: 
 
 [Angular Learning](https://github.com/jmcunningham/AngularJS-Learning)
+[ng-book](http://pepa.holla.cz/wp-content/uploads/2015/10/ng-book-The-Complete-Book-on-AngularJS.pdf)
+[ng-book 2](https://github.com/papapin/Ng-book-2-/blob/master/ng-book2-r49.pdf)
 
 ## React
 [docs](https://facebook.github.io/react/)
