@@ -164,6 +164,7 @@ This is the “Composing Software” series on learning functional programming a
 - [ ] [Fullstack React](https://www.fullstackreact.com/)
 - [ ] [30 Days of React](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf?inf_contact_key=18cde43c685ab50d13a2ee7d3d40eae75f3c253a8da2bbad02e217aa8b4200c7)
 - [ ] [Mastering React](http://pepa.holla.cz/wp-content/uploads/2016/12/Mastering-React.pdf)
+- [x] [React.js/Flux/Redux Tutorial video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 ## Testing - TDD
 
