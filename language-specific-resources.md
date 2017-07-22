@@ -166,6 +166,10 @@ This is the “Composing Software” series on learning functional programming a
 - [ ] [Mastering React](http://pepa.holla.cz/wp-content/uploads/2016/12/Mastering-React.pdf)
 - [x] [React.js/Flux/Redux Tutorial video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
+## Webpack
+
+- [ ] [Webpack Concepts](https://webpack.js.org/concepts/)
+
 ## Testing - TDD
 
 ### Node.js testing:
