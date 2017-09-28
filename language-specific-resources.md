@@ -150,7 +150,7 @@ This is the “Composing Software” series on learning functional programming a
 
 ## TypeScript
 
- - [ ] [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+ - [x] [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
 ## Angular: 
 
@@ -160,15 +160,15 @@ This is the “Composing Software” series on learning functional programming a
 
 ## React
 
-[docs](https://facebook.github.io/react/)
+- [x] [docs](https://facebook.github.io/react/)
 - [ ] [Fullstack React](https://www.fullstackreact.com/)
-- [ ] [30 Days of React](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf?inf_contact_key=18cde43c685ab50d13a2ee7d3d40eae75f3c253a8da2bbad02e217aa8b4200c7)
-- [ ] [Mastering React](http://pepa.holla.cz/wp-content/uploads/2016/12/Mastering-React.pdf)
+- [x] [30 Days of React](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf?inf_contact_key=18cde43c685ab50d13a2ee7d3d40eae75f3c253a8da2bbad02e217aa8b4200c7)
+- [x] [Mastering React](http://pepa.holla.cz/wp-content/uploads/2016/12/Mastering-React.pdf)
 - [x] [React.js/Flux/Redux Tutorial video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 ## Webpack
 
-- [ ] [Webpack Concepts](https://webpack.js.org/concepts/)
+- [x] [Webpack Concepts](https://webpack.js.org/concepts/)
 
 ## Testing - TDD
 
