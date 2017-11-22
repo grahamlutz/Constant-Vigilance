@@ -27,6 +27,13 @@ Here, constant vigilance means being continually aware of areas that need improv
 
 ##### Udacity
 - [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [ ] [Intro to Artificial Intellegence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [ ] [Artificial Intellegence](https://www.udacity.com/course/artificial-intelligence--ud954)
+- [ ] [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+- [ ] [Knowledge Based AI - Cognitive Systmes](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+- [ ] [Software Design and Architecture](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ] [Computability, Complexity, and Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
 
 ##### Khan Academy
 - Computer Science
@@ -83,6 +90,10 @@ Here, constant vigilance means being continually aware of areas that need improv
  - [ ] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
  - [ ] [Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 
+## Blockchain
+
+ - [ ] [Learn Blockchain by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+ - [ ] [Blockchain podcast - Software Engineering Daily](https://softwareengineeringdaily.com/tag/learn-blockchains-by-building-one/)
 
 <a name="Web-Development"></a>
 # Web Development
