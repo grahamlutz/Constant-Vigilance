@@ -29,6 +29,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 - [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 - [ ] [Intro to Artificial Intellegence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Artificial Intellegence](https://www.udacity.com/course/artificial-intelligence--ud954)
+- [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Knowledge Based AI - Cognitive Systmes](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
