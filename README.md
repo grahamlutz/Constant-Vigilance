@@ -38,7 +38,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 
 ##### Khan Academy
 - Computer Science
-- [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [x] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 - [ ] [Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
 - [ ] [Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
@@ -49,6 +49,8 @@ Here, constant vigilance means being continually aware of areas that need improv
 - [ ] [Vectors and spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 - [ ] [Matrix transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
 - [ ] [Alternate coordinate systems (bases)](https://www.khanacademy.org/math/linear-algebra/alternate-bases)
+- Calculus
+- [ ] [Limits and Continuity](https://www.khanacademy.org/math/ap-calculus-bc/bc-limits-continuity)
 
 ### Coursework
  - [x] [Standford CS 101 - Javascript](https://lagunita.stanford.edu/dashboard) OR [Harvard CS50 - C](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x0) OR [MIT 6.0001 - Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
