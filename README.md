@@ -26,7 +26,9 @@ Here, constant vigilance means being continually aware of areas that need improv
 #### Prerequisites
 
 ##### Udacity
-- [ ] [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [ ] [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [ ] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Intro to Artificial Intellegence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Artificial Intellegence](https://www.udacity.com/course/artificial-intelligence--ud954)
 - [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
