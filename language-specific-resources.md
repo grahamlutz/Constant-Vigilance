@@ -88,6 +88,10 @@ This is the “Composing Software” series on learning functional programming a
  - [ ] [Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
  - [ ] [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
  - [ ] [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+ - [ ] [JavaScript Factory Functions with ES6+](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+ - [ ] [Why Composition is Harder with Classes](https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa)
+ - [ ] [Composable Datatypes with Functions](https://medium.com/javascript-scene/composable-datatypes-with-functions-aec72db3b093)
+ - [ ] [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
  
 ### ES6
 
