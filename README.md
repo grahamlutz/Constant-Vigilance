@@ -37,6 +37,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 - [ ] [Knowledge Based AI - Cognitive Systmes](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
 - [ ] [Software Design and Architecture](https://www.udacity.com/course/software-architecture-design--ud821)
 - [ ] [Computability, Complexity, and Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+- [ ] [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 
 ##### Khan Academy
 - Computer Science
@@ -86,6 +87,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 ## Machine Learning
 
 - [ ] [Machine Learning Nanodegree - Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+- [ ] [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 
 #### Prerequisites
 
