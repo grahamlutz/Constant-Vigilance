@@ -26,12 +26,12 @@ Here, constant vigilance means being continually aware of areas that need improv
 #### Prerequisites
 
 ##### Udacity
-- [ ] [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-- [ ] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- [ ] [Intro to Artificial Intellegence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [x] [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [x] [Intro to Inferrential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [x] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [x] [Intro to Artificial Intellegence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [ ] [Artificial Intellegence](https://www.udacity.com/course/artificial-intelligence--ud954)
-- [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [x] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 - [ ] [Knowledge Based AI - Cognitive Systmes](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
@@ -99,8 +99,8 @@ Here, constant vigilance means being continually aware of areas that need improv
 
 ## Blockchain
 
- - [ ] [Learn Blockchain by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
- - [ ] [Blockchain podcast - Software Engineering Daily](https://softwareengineeringdaily.com/tag/learn-blockchains-by-building-one/)
+ - [x] [Learn Blockchain by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+ - [x] [Blockchain podcast - Software Engineering Daily](https://softwareengineeringdaily.com/tag/learn-blockchains-by-building-one/)
 
 <a name="Web-Development"></a>
 # Web Development
@@ -110,7 +110,7 @@ Here, constant vigilance means being continually aware of areas that need improv
 
 ## AWS
 
- - [ ] [serverless applications with AWS](https://www.udemy.com/learning-path-aws-aws-environments-with-aws-lambda/)
+ - [x] [serverless applications with AWS](https://www.udemy.com/learning-path-aws-aws-environments-with-aws-lambda/)
  - [x] [Lambda](https://www.udemy.com/aws-lambda-2016-the-complete-guide-with-hands-on-labs/)
  - [ ] [Certified Developer Associate](https://www.udemy.com/aws-certified-developer-associate/)
  - [ ] [Certified Solutions Architect](https://www.udemy.com/aws-certified-solutions-architect-associate/)
@@ -119,25 +119,25 @@ Here, constant vigilance means being continually aware of areas that need improv
 ## Wordpress
 
 #### Courses
- - [ ] [Wordpress Development for Intermediate Users](https://premium.wpmudev.org/academy/courses/wordpress-development-for-intermediate-users-3)
- - [ ] [Advanced Wordpress Development](https://premium.wpmudev.org/academy/courses/advanced-wordpress-development)
+ - [x] [Wordpress Development for Intermediate Users](https://premium.wpmudev.org/academy/courses/wordpress-development-for-intermediate-users-3)
+ - [x] [Advanced Wordpress Development](https://premium.wpmudev.org/academy/courses/advanced-wordpress-development)
  
 #### Tutorials/Articles
- - [ ] [Using Composer with Wordpress](https://roots.io/using-composer-with-wordpress/)
+ - [x] [Using Composer with Wordpress](https://roots.io/using-composer-with-wordpress/)
  - [x] [Actions and Filters](https://code.tutsplus.com/articles/the-beginners-guide-to-wordpress-actions-and-filters--wp-27373)
  - [x] [Inside Wordpress Actions and Filters](https://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/)
- - [ ] [ACF In Depth](https://torquemag.io/2016/04/use-advanced-custom-fields-depth-tutorial/)
- - [ ] [Plugin Structure In Depth](https://carlalexander.ca/designing-class-assemble-plugin/)
- - [ ] [Object Oriented Wordpress Programming](https://carlalexander.ca/object-oriented-programming-next-step-wordpress-developer/)
+ - [x] [ACF In Depth](https://torquemag.io/2016/04/use-advanced-custom-fields-depth-tutorial/)
+ - [x] [Plugin Structure In Depth](https://carlalexander.ca/designing-class-assemble-plugin/)
+ - [x] [Object Oriented Wordpress Programming](https://carlalexander.ca/object-oriented-programming-next-step-wordpress-developer/)
  - [ ] [Performant PHP for Worpdress](https://10up.github.io/Engineering-Best-Practices/php/#performance)
- - [ ] [Ultimate Wordpress Security Guide - 2017](http://www.wpbeginner.com/wordpress-security/)
- - [ ] [WP REST API Docs](http://v2.wp-api.org/)
- - [ ] [REST API Handbook](https://developer.wordpress.org/rest-api/)
- - [ ] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
+ - [x] [Ultimate Wordpress Security Guide - 2017](http://www.wpbeginner.com/wordpress-security/)
+ - [x] [WP REST API Docs](http://v2.wp-api.org/)
+ - [x] [REST API Handbook](https://developer.wordpress.org/rest-api/)
+ - [x] [Wordpress Coding Standards](https://www.smashingmagazine.com/2012/07/guide-wordpress-coding-standards/)
  - [x] [Complete Guide to Custom Post Types](https://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/)
  - [x] [Complete Guide to Shortcodes](https://www.smashingmagazine.com/2012/05/wordpress-shortcodes-complete-guide/)
  - [x] [Wordpress Nonces](https://codex.wordpress.org/WordPress_Nonces)
- - [ ] [Definitive Guide to Wordpress Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/)
+ - [x] [Definitive Guide to Wordpress Hooks](https://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/)
  - [ ] [Secure Your Wordpress Website](https://www.smashingmagazine.com/2011/11/securing-your-wordpress-website/)
  - [ ] [Guidelines on Interacting with WP Database](https://www.smashingmagazine.com/2011/09/interacting-with-the-wordpress-database/)
  - [ ] [Unit Testing Your Plugins](https://www.smashingmagazine.com/2012/03/writing-unit-tests-for-wordpress-plugins/)
@@ -191,11 +191,11 @@ Here, constant vigilance means being continually aware of areas that need improv
 ## Docker
 
  - [x] [Docker Explained Simply](http://elliot.land/post/docker-explained-simply)
- - [ ] [Docker for Web Development](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
+ - [x] [Docker for Web Development](https://app.pluralsight.com/library/courses/docker-web-development/table-of-contents)
 
 ## Command Line
 
- - [ ] [Conquering The Command Line](http://conqueringthecommandline.com/book)
+ - [x] [Conquering The Command Line](http://conqueringthecommandline.com/book)
 
 ## Git
 
